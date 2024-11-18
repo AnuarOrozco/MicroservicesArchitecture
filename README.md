@@ -50,3 +50,7 @@ El **Config Server** es un servicio centralizado de configuración que gestiona 
 
 ## Conexión entre Microservicios
 Cada microservicio tiene su propia base de datos, lo que garantiza la independencia y escalabilidad del sistema. Además, la comunicación entre microservicios se realiza mediante el protocolo HTTP REST, facilitando la interoperabilidad y flexibilidad en el sistema.
+
+## Instancias de Microservicios en Eureka
+![eureka test instances](https://github.com/user-attachments/assets/969ac761-e9f6-4bc4-a5cc-3c83869eeafc)
+
